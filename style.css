@@ -1,0 +1,160 @@
+body{
+	background:black;
+}
+
+#cover{
+	width: 100%;
+    height: 800px;
+    background-image: url('pic2.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;	
+	position:relative;
+	
+}
+
+#intro{	
+	width:65%;
+	height:auto;
+	margin: 0 auto;
+	margin-top:5%;
+	
+	
+}
+
+
+#write{
+	padding: 5%;
+	margin: 0 auto;
+	width:70%;
+	height:auto;
+	font-size:10px;
+	font-family: ‘Courier New’, Courier, monospace;
+	color:white;
+	text-align:center;
+	font-size:100%;
+	font-size:1.1em;font-weight:500;
+	 
+	 
+}
+
+#vid1{
+	width:100%;
+	height:auto;
+	margin:0 auto;	
+	position:relative;
+	top:80px;
+}
+
+#ghouls{
+	margin-top:10%;
+	width:100%;
+	height:auto;
+	float:left;
+}
+#ghoul{
+	width:35%;
+	height:auto;
+	margin: 0 auto;
+	
+	
+}	
+
+#pv1{
+	width:360px;
+	height:300px;
+	border:solid white;
+	border-width:10px;
+	float:left;
+	margin: 10px;
+	
+}
+#pv2{
+	width:360px;
+	height:300px;
+	border:solid white;
+	border-width:10px;
+	float:left;
+	margin: 10px;
+	
+}
+#pv3{
+	width:360px;
+	height:300px;
+	border:solid white;
+	border-width:10px;
+	float:left;
+	margin: 10px;
+}
+
+#one{
+	width:100%;
+	height:0px;
+	border: solid white;
+	border-width:2px;
+	margin-top:10%;
+	margin-bottom:5%;
+	float:left;
+}
+
+#two{
+	width:100%;
+	height:0px;
+	border: solid white;
+	border-width:2px;
+	margin-top:20%;
+	margin-bottom:5%;
+	float:left;
+}
+
+#three{
+	width:100%;
+	height:0px;
+	border:solid white;
+	border-width:2px;
+	float:left;
+	margin-top:-5%;
+}
+
+#cha{
+	width:50%;
+	height:auto;
+	margin-left:25%;
+	float:left;
+	margin-top:5%;
+}
+
+.bio{
+	width:340px;
+	height:300px;
+	position:relative;
+	left:22%;
+	top:100px;
+}
+#p1{
+	width:100%;
+	height:300px;
+	font-family: ‘Courier New’, Courier, monospace;
+	color:white;
+	text-align:center;
+	font-size:100%;
+	font-size:1em;font-weight:lighter;
+	position:relative;
+	float:left;
+	top:100%;
+	
+	
+}
+
+
+#kaneki{
+	padding:10%;
+    width: 100%;
+    height: 1360px;
+    background-image: url('kaneki.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+	float:left;
+	position:relative;
+	top:100px;
+	
+}
